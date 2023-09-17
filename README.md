@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FinnH1123
-- 👀 I’m interested in backend development and smart contract development.
+- 👀 I’m interested in backend development and automation.
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
